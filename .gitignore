@@ -1,0 +1,6 @@
+train/
+test/
+val/
+uploads/
+resnet_transfer.py
+__pycache__
