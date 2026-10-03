@@ -2,7 +2,7 @@
    Adarsh Pandey  
    B.Tech Student | Backend Developer | AI & Digital Forensics Enthusiast
 
-## **Note** As of Now I have not uploaded the dataset for the model in the github if anybody wants to train the same model he/ she can request to me about the dataset on my email-id ap4866017@gmail.com.. I have dataset which is laready neat and clean you people not have to do the data_preprocessing Steps........
+## **Note** As of Now I have not uploaded the dataset for the model in the github if anybody wants to train the same model he/ she can request to me about the dataset on my email-id ap4866017@gmail.com.. I have dataset which is already neat and clean you people not have to do the data_preprocessing Steps........
    
 
 
